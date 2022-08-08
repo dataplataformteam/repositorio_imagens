@@ -1,4 +1,4 @@
-﻿![logo](./logo_vectra/laranja_redimensionado.png)
+﻿![logo](./logo_vectra/laranja_redimensionado_884x171.png)
 
 
 
